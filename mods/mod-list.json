@@ -1,0 +1,712 @@
+{
+  "mods": [
+    {
+      "name": "base",
+      "enabled": true
+    },
+    {
+      "name": "5dim_automatization",
+      "enabled": true
+    },
+    {
+      "name": "5dim_battlefield",
+      "enabled": true
+    },
+    {
+      "name": "5dim_botrecaller",
+      "enabled": true
+    },
+    {
+      "name": "5dim_core",
+      "enabled": true
+    },
+    {
+      "name": "5dim_equipment",
+      "enabled": true
+    },
+    {
+      "name": "5dim_logistic",
+      "enabled": true
+    },
+    {
+      "name": "5dim_mining",
+      "enabled": true
+    },
+    {
+      "name": "5dim_module",
+      "enabled": true
+    },
+    {
+      "name": "5dim_trains",
+      "enabled": true
+    },
+    {
+      "name": "5dim_transport",
+      "enabled": true
+    },
+    {
+      "name": "5dim_vehicle",
+      "enabled": true
+    },
+    {
+      "name": "200 Inventory Size",
+      "enabled": true
+    },
+    {
+      "name": "aai-industry",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-structures",
+      "enabled": true
+    },
+    {
+      "name": "aai-programmable-vehicles",
+      "enabled": true
+    },
+    {
+      "name": "aai-signals",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-chaingunner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-flame-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-hauler",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-laser-tank",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-miner",
+      "enabled": true
+    },
+    {
+      "name": "aai-vehicles-warden",
+      "enabled": true
+    },
+    {
+      "name": "aai-zones",
+      "enabled": true
+    },
+    {
+      "name": "ActiveSteamTurbine",
+      "enabled": true
+    },
+    {
+      "name": "Additional-Turret-016",
+      "enabled": true
+    },
+    {
+      "name": "Advanced-Solar",
+      "enabled": true
+    },
+    {
+      "name": "Advanced_Radar",
+      "enabled": true
+    },
+    {
+      "name": "air-filtering",
+      "enabled": true
+    },
+    {
+      "name": "Aircraft",
+      "enabled": true
+    },
+    {
+      "name": "AlienBloodFix",
+      "enabled": true
+    },
+    {
+      "name": "AlienSpaceScience",
+      "enabled": true
+    },
+    {
+      "name": "ammo-loader",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-oresilos",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-petrotrain",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-pressuretanks",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-smeltingtrain",
+      "enabled": true
+    },
+    {
+      "name": "angelsaddons-warehouses",
+      "enabled": true
+    },
+    {
+      "name": "angelsbioprocessing",
+      "enabled": true
+    },
+    {
+      "name": "angelsindustries",
+      "enabled": true
+    },
+    {
+      "name": "angelspetrochem",
+      "enabled": true
+    },
+    {
+      "name": "angelspetrochemNaOH",
+      "enabled": true
+    },
+    {
+      "name": "angelsrefining",
+      "enabled": true
+    },
+    {
+      "name": "angelssmelting",
+      "enabled": true
+    },
+    {
+      "name": "Armageddon",
+      "enabled": true
+    },
+    {
+      "name": "AsphaltRoads",
+      "enabled": true
+    },
+    {
+      "name": "auto-research",
+      "enabled": true
+    },
+    {
+      "name": "autocraft_revamped",
+      "enabled": true
+    },
+    {
+      "name": "autofill",
+      "enabled": true
+    },
+    {
+      "name": "beltSorter",
+      "enabled": true
+    },
+    {
+      "name": "BetterIcons",
+      "enabled": true
+    },
+    {
+      "name": "BigStorageTank",
+      "enabled": true
+    },
+    {
+      "name": "bob-basic-belt-reskin",
+      "enabled": true
+    },
+    {
+      "name": "bobangels-pipe-fix",
+      "enabled": true
+    },
+    {
+      "name": "bobassembly",
+      "enabled": true
+    },
+    {
+      "name": "bobelectronics",
+      "enabled": true
+    },
+    {
+      "name": "bobenemies",
+      "enabled": true
+    },
+    {
+      "name": "bobgreenhouse",
+      "enabled": true
+    },
+    {
+      "name": "bobinserters",
+      "enabled": true
+    },
+    {
+      "name": "boblibrary",
+      "enabled": true
+    },
+    {
+      "name": "boblocale",
+      "enabled": true
+    },
+    {
+      "name": "boblogistics",
+      "enabled": true
+    },
+    {
+      "name": "bobmining",
+      "enabled": true
+    },
+    {
+      "name": "bobmods_gfxtweak",
+      "enabled": true
+    },
+    {
+      "name": "bobmodules",
+      "enabled": true
+    },
+    {
+      "name": "bobores",
+      "enabled": true
+    },
+    {
+      "name": "bobplates",
+      "enabled": true
+    },
+    {
+      "name": "bobpower",
+      "enabled": true
+    },
+    {
+      "name": "bobrevamp",
+      "enabled": true
+    },
+    {
+      "name": "bobtech",
+      "enabled": true
+    },
+    {
+      "name": "bobvehicleequipment",
+      "enabled": true
+    },
+    {
+      "name": "bobwarfare",
+      "enabled": true
+    },
+    {
+      "name": "Bot Landfill",
+      "enabled": true
+    },
+    {
+      "name": "Bottleneck",
+      "enabled": true
+    },
+    {
+      "name": "bullet-trails",
+      "enabled": true
+    },
+    {
+      "name": "CanalBuilder",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-AngelBob-Nuclear",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Locale",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Nuclear",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Processing",
+      "enabled": true
+    },
+    {
+      "name": "Clowns-Science",
+      "enabled": true
+    },
+    {
+      "name": "Crafting_Speed_Research",
+      "enabled": true
+    },
+    {
+      "name": "custom_power_armor",
+      "enabled": true
+    },
+    {
+      "name": "DeadlockStacking",
+      "enabled": true
+    },
+    {
+      "name": "DeathPoints",
+      "enabled": true
+    },
+    {
+      "name": "Diesel-Locomotive",
+      "enabled": true
+    },
+    {
+      "name": "Electric-Weapons",
+      "enabled": true
+    },
+    {
+      "name": "ElectricTrain",
+      "enabled": true
+    },
+    {
+      "name": "ElectricTrains",
+      "enabled": true
+    },
+    {
+      "name": "Epic-Artillery-Sounds",
+      "enabled": true
+    },
+    {
+      "name": "even-distribution",
+      "enabled": true
+    },
+    {
+      "name": "EvoGUI",
+      "enabled": true
+    },
+    {
+      "name": "Evolution Reduction",
+      "enabled": true
+    },
+    {
+      "name": "extendedangels",
+      "enabled": true
+    },
+    {
+      "name": "Extra_Floors",
+      "enabled": true
+    },
+    {
+      "name": "FARL",
+      "enabled": true
+    },
+    {
+      "name": "fixingbobsangel",
+      "enabled": true
+    },
+    {
+      "name": "Flare Stack",
+      "enabled": true
+    },
+    {
+      "name": "Flow Control",
+      "enabled": true
+    },
+    {
+      "name": "FNEI",
+      "enabled": true
+    },
+    {
+      "name": "Helicopters",
+      "enabled": true
+    },
+    {
+      "name": "helmod",
+      "enabled": true
+    },
+    {
+      "name": "high-pressure-pipes",
+      "enabled": true
+    },
+    {
+      "name": "islands_world",
+      "enabled": true
+    },
+    {
+      "name": "Laser_Beam_Turrets",
+      "enabled": true
+    },
+    {
+      "name": "Loader-Furnace",
+      "enabled": true
+    },
+    {
+      "name": "LoaderRedux",
+      "enabled": true
+    },
+    {
+      "name": "LootChestPlus",
+      "enabled": true
+    },
+    {
+      "name": "manual-inventory-sort",
+      "enabled": true
+    },
+    {
+      "name": "MaxRateCalculator",
+      "enabled": true
+    },
+    {
+      "name": "miniloader",
+      "enabled": true
+    },
+    {
+      "name": "minimap-autohide",
+      "enabled": true
+    },
+    {
+      "name": "MiningTools",
+      "enabled": true
+    },
+    {
+      "name": "MIRV",
+      "enabled": true
+    },
+    {
+      "name": "MoreBiters",
+      "enabled": true
+    },
+    {
+      "name": "morebobs",
+      "enabled": true
+    },
+    {
+      "name": "MoreRepairPacks",
+      "enabled": true
+    },
+    {
+      "name": "MoreScience",
+      "enabled": true
+    },
+    {
+      "name": "multi-product-recipe-details",
+      "enabled": true
+    },
+    {
+      "name": "Nanobots",
+      "enabled": true
+    },
+    {
+      "name": "NapalmArtillery",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Buildings",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Enemies",
+      "enabled": true
+    },
+    {
+      "name": "Natural_Evolution_Expansion",
+      "enabled": true
+    },
+    {
+      "name": "necromant",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear Fuel",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear Landmines",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear Locomotives",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear_Artillery_Shell",
+      "enabled": true
+    },
+    {
+      "name": "Nuclear_Artillery_Shell_Tweak",
+      "enabled": true
+    },
+    {
+      "name": "Orbital Ion Cannon",
+      "enabled": true
+    },
+    {
+      "name": "PastyAngels",
+      "enabled": true
+    },
+    {
+      "name": "PipesFix",
+      "enabled": true
+    },
+    {
+      "name": "PlutoniumEnergy",
+      "enabled": true
+    },
+    {
+      "name": "Power Armor MK3",
+      "enabled": true
+    },
+    {
+      "name": "power-grid-comb",
+      "enabled": true
+    },
+    {
+      "name": "PulseRifle",
+      "enabled": true
+    },
+    {
+      "name": "qol_research",
+      "enabled": true
+    },
+    {
+      "name": "railloader",
+      "enabled": true
+    },
+    {
+      "name": "Rampant",
+      "enabled": true
+    },
+    {
+      "name": "Regroup",
+      "enabled": true
+    },
+    {
+      "name": "Reinforced-Walls-016",
+      "enabled": true
+    },
+    {
+      "name": "reverse-factory",
+      "enabled": true
+    },
+    {
+      "name": "robotarmy",
+      "enabled": true
+    },
+    {
+      "name": "robotMiningSite",
+      "enabled": true
+    },
+    {
+      "name": "RocketTurrets",
+      "enabled": true
+    },
+    {
+      "name": "rso-mod",
+      "enabled": true
+    },
+    {
+      "name": "ruslocale",
+      "enabled": true
+    },
+    {
+      "name": "SatelliteRadar",
+      "enabled": true
+    },
+    {
+      "name": "ScanningRadar",
+      "enabled": true
+    },
+    {
+      "name": "scattergun_turret",
+      "enabled": true
+    },
+    {
+      "name": "Senpais_Trains",
+      "enabled": true
+    },
+    {
+      "name": "Shield-Walls-Redux",
+      "enabled": true
+    },
+    {
+      "name": "ShinyAngelGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyBobGFX",
+      "enabled": true
+    },
+    {
+      "name": "ShinyBob_Menus",
+      "enabled": true
+    },
+    {
+      "name": "ShinyBob_Techs",
+      "enabled": true
+    },
+    {
+      "name": "ShinyIcons",
+      "enabled": true
+    },
+    {
+      "name": "ships_extended",
+      "enabled": true
+    },
+    {
+      "name": "Single-Splitter",
+      "enabled": true
+    },
+    {
+      "name": "skan-advanced-solar",
+      "enabled": true
+    },
+    {
+      "name": "SpaceMod",
+      "enabled": true
+    },
+    {
+      "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "Swarm",
+      "enabled": true
+    },
+    {
+      "name": "Teleportation",
+      "enabled": true
+    },
+    {
+      "name": "Texugo_windgenerator",
+      "enabled": true
+    },
+    {
+      "name": "thecomb-sodiumHydroxideConcrete",
+      "enabled": true
+    },
+    {
+      "name": "Todo-List",
+      "enabled": true
+    },
+    {
+      "name": "Treefarm-Lite-fix",
+      "enabled": true
+    },
+    {
+      "name": "tree_collision",
+      "enabled": true
+    },
+    {
+      "name": "Turret-Shields",
+      "enabled": true
+    },
+    {
+      "name": "upgrade-planner",
+      "enabled": true
+    },
+    {
+      "name": "WarehouseAddons",
+      "enabled": true
+    },
+    {
+      "name": "Warehousing",
+      "enabled": true
+    },
+    {
+      "name": "Waterfill2",
+      "enabled": true
+    },
+    {
+      "name": "WaterWell",
+      "enabled": true
+    },
+    {
+      "name": "wreckage-pollution",
+      "enabled": true
+    }
+  ]
+}
